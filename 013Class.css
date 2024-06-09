@@ -1,0 +1,17 @@
+/* Class in CSS */
+button {
+  color: blue;
+}
+
+.redElement {
+  color: red;
+}
+
+.boldElement {
+  font-weight: bold;
+}
+
+.boldElementandmagenta {
+  font-weight: bold;
+  color: magenta;
+}
